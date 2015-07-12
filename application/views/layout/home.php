@@ -1,0 +1,1 @@
+<div class="middle-container"> Middle Area</div>
